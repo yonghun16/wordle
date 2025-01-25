@@ -38,7 +38,7 @@ function appStart() {
     const div = document.createElement("div");
     div.innerText = "게임이 종료됐습니다.";
     div.style =
-      "font-family: 'apple-system', Arial, serif, cursive; display:flex; justify-content:center; align-items:center; position:absolute; top:45vh; background-color:white; width:200px; height:100px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);";
+      "font-family: 'Noto Sans KR', Roboto, serif; display:flex; justify-content:center; align-items:center; position:absolute; top:45vh; background-color:white; width:200px; height:100px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);";
     document.body.appendChild(div);
   };
 
