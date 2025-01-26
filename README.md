@@ -13,7 +13,7 @@
     A game where you guess a 5-letter word in 6 tries.
   </li>
 	<li>
-		<a href="www.nytimes.com/games/wordle">원본 보러가기</a> ( www.nytimes.com/games/wordle )
+		<a href="https://www.nytimes.com/games/wordle">원본 보러가기</a> ( www.nytimes.com/games/wordle )
 	</li>
 	<li>
 		<a href="https://yonghun16.github.io/wordle/">Clone 보러가기</a>
