@@ -16,7 +16,7 @@
 		<a href="https://www.nytimes.com/games/wordle">원본 보러가기</a> ( www.nytimes.com/games/wordle )
 	</li>
 	<li>
-		<a href="https://yonghun16.github.io/wordle/">Clone 보러가기</a>
+		<a href="http://140.238.9.24:8000/">Clone 보러가기</a>
 	</li>
 	<li>
 		Single-page
@@ -31,9 +31,8 @@
 	<!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
 	<!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
   <br>
-	<!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+	<!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>
+	<!-- FastAPI --><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></a>
  	<br>
-	<!-- Novim --><a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
-	<!-- VScode --><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
-
+	<!-- Vim --><a href="https://www.vim.org"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" /></a>
 </div>
