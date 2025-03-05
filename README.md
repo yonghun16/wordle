@@ -35,4 +35,5 @@
 	<!-- FastAPI --><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></a>
  	<br>
 	<!-- Vim --><a href="https://www.vim.org"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" /></a>
+	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 </div>
