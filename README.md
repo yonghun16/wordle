@@ -10,7 +10,7 @@
 
 <ul>
   <li>
-    A game where you guess a 5-letter word in 6 tries.
+    6번의 기회로 5글자 단어를 추측하는 게임.
   </li>
 	<li>
 		<a href="https://www.nytimes.com/games/wordle">원본 보러가기</a> ( www.nytimes.com/games/wordle )
