@@ -1,3 +1,13 @@
+# 가상환경 활성화
+source bin/activate
+
+# 서버실행
 nohup uvicorn main:app --host 0.0.0.0 --port 8000 > output.log 2>&1 &
 
+# 서버 종료
 ps aux | grep uvicorn
+pkill -f "uvicorn main:app"
+
+# 방화벽 설정
+sudo ufw allow 8000
+sudo ufw enable
