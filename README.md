@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Wordle%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
-  <a href="http://140.238.9.24:8000/"><img src="https://raw.githubusercontent.com/yonghun16/wordle/refs/heads/main/wordle.jpg" width=800px /></a>
+  <a href="https://yonghun16.duckdns.org/wordle/"><img src="https://raw.githubusercontent.com/yonghun16/wordle/refs/heads/main/wordle.jpg" width=800px /></a>
 	
 </div>
 
@@ -16,7 +16,7 @@
 		<a href="https://www.nytimes.com/games/wordle">원본 보러가기</a> ( www.nytimes.com/games/wordle )
 	</li>
 	<li>
-		<a href="http://140.238.9.24:8000/">Clone 보러가기</a>
+		<a href="https://yonghun16.duckdns.org/wordle/">Clone 보러가기</a>
 	</li>
 	<li>
 		Single-page
